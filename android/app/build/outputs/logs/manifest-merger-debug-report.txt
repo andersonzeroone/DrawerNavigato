@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [:react-native-vector-icons] /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-gesture-handler] /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.60.4] /home/anderson/.gradle/caches/transforms-2/files-2.1/8bc63ef1e89ec96c05567f57c2fee764/AndroidManifest.xml:2:1-13:12
-MERGED from [org.webkit:android-jsc:r245459] /home/anderson/.gradle/caches/transforms-2/files-2.1/8ec9b6102845d9bc2fd19a5c059cc061/AndroidManifest.xml:2:1-11:12
+ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.4] /home/anderson/.gradle/caches/transforms-2/files-2.1/40e2f044bae525e121c8a55b17373e6d/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/anderson/.gradle/caches/transforms-2/files-2.1/353f2e5639c33022a0f566523a2627bf/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/anderson/.gradle/caches/transforms-2/files-2.1/2be0c78ee526e2add22afd87c449f496/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/anderson/.gradle/caches/transforms-2/files-2.1/23425dfbac22e6a398657ff3a6722927/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/anderson/.gradle/caches/transforms-2/files-2.1/d3e79351b63cda045c177360132d494b/AndroidManifest.xml:2:1-9:12
@@ -44,36 +44,36 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/anderson/.g
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/anderson/.gradle/caches/transforms-2/files-2.1/50f8a620baa720f2f0d0e765a00e68fc/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/anderson/.gradle/caches/transforms-2/files-2.1/6d3d70ad887e18cf5d70efbf712f166e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/anderson/.gradle/caches/transforms-2/files-2.1/a24eba65a194179b10fb532e6e0a024a/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:2:3-33
-		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:2:3-33
-		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from [com.facebook.react:react-native:0.60.4] /home/anderson/.gradle/caches/transforms-2/files-2.1/8bc63ef1e89ec96c05567f57c2fee764/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.60.4] /home/anderson/.gradle/caches/transforms-2/files-2.1/8bc63ef1e89ec96c05567f57c2fee764/AndroidManifest.xml:11:5-20
+ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.4] /home/anderson/.gradle/caches/transforms-2/files-2.1/40e2f044bae525e121c8a55b17373e6d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] /home/anderson/.gradle/caches/transforms-2/files-2.1/40e2f044bae525e121c8a55b17373e6d/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/anderson/.gradle/caches/transforms-2/files-2.1/bd9bfba828761cdc68b2c9502a7738ed/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/anderson/.gradle/caches/transforms-2/files-2.1/bd9bfba828761cdc68b2c9502a7738ed/AndroidManifest.xml:11:5-20
 MERGED from [androidx.core:core:1.0.1] /home/anderson/.gradle/caches/transforms-2/files-2.1/10a02a0fe540388c69ad42ffd5e09906/AndroidManifest.xml:22:5-89
@@ -83,65 +83,65 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ander
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] /home/anderson/.gradle/caches/transforms-2/files-2.1/10a02a0fe540388c69ad42ffd5e09906/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:8:7-39
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:8:7-39
 	tools:ignore
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml:7:75-114
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:10:7-52
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:10:7-52
 	tools:targetApi
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml:7:54-74
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:9:7-41
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:9:7-41
 	android:allowBackup
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:11:7-34
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:12:7-38
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:usesCleartextTraffic
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml:7:18-53
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:7:7-38
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:7:7-38
 activity#com.drawernavigation.MainActivity
-ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-vector-icons] /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.60.4] /home/anderson/.gradle/caches/transforms-2/files-2.1/8bc63ef1e89ec96c05567f57c2fee764/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.60.4] /home/anderson/.gradle/caches/transforms-2/files-2.1/8bc63ef1e89ec96c05567f57c2fee764/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /home/anderson/.gradle/caches/transforms-2/files-2.1/8ec9b6102845d9bc2fd19a5c059cc061/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /home/anderson/.gradle/caches/transforms-2/files-2.1/8ec9b6102845d9bc2fd19a5c059cc061/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /home/anderson/.gradle/caches/transforms-2/files-2.1/40e2f044bae525e121c8a55b17373e6d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /home/anderson/.gradle/caches/transforms-2/files-2.1/40e2f044bae525e121c8a55b17373e6d/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/anderson/.gradle/caches/transforms-2/files-2.1/353f2e5639c33022a0f566523a2627bf/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/anderson/.gradle/caches/transforms-2/files-2.1/353f2e5639c33022a0f566523a2627bf/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/anderson/.gradle/caches/transforms-2/files-2.1/2be0c78ee526e2add22afd87c449f496/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/anderson/.gradle/caches/transforms-2/files-2.1/2be0c78ee526e2add22afd87c449f496/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/anderson/.gradle/caches/transforms-2/files-2.1/23425dfbac22e6a398657ff3a6722927/AndroidManifest.xml:5:5-7:41
@@ -212,15 +212,15 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /home/anderson/.gradle/ca
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/anderson/.gradle/caches/transforms-2/files-2.1/6d3d70ad887e18cf5d70efbf712f166e/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/anderson/.gradle/caches/transforms-2/files-2.1/a24eba65a194179b10fb532e6e0a024a/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/anderson/.gradle/caches/transforms-2/files-2.1/a24eba65a194179b10fb532e6e0a024a/AndroidManifest.xml:5:5-7:41
-INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml
-INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/drawerNavigation/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /home/anderson/Documents/Faculdade/Estudos/Git/DrawerNavigato/android/app/src/debug/AndroidManifest.xml:5:22-75
